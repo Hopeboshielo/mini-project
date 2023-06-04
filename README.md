@@ -1,2 +1,4 @@
 # mini-project
- myportfolio
+# My Portfolio
+
+# https://github.com/Hopeboshielo/mini-project.git/index.html
